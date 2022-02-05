@@ -145,3 +145,8 @@ function reusableFunction(){
     console.log(a+b);
   }
   functionWithArgs(12, 20);
+  function timesFive(a){
+    return a*5;
+  }
+  timesFive(5);
+  
