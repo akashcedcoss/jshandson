@@ -787,4 +787,12 @@ var myStorage = {
   }
 
   updateRecords(recordCollection, 5439, 'artist', 'ABBA');
-  
+
+  const myArray = [];
+
+// Only change code below this line
+var i=5;
+while (i >=0) {
+  myArray.push(i);
+  i--;
+} 
