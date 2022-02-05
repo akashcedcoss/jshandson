@@ -608,4 +608,12 @@ const myDog = {
     "friends": ["Water", "Dogs"]
 
   };
-  
+  // Setup
+const testObj = {
+    "hat": "ballcap",
+    "shirt": "jersey",
+    "shoes": "cleats"
+  };
+
+  const hatValue = testObj.hat;      // Change this line
+  const shirtValue = testObj.shirt;    // Change this line
