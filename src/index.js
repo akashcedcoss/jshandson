@@ -231,9 +231,17 @@ function nextInLine(arr, item) {
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
   function welcomeToBooleans() {
-    // Only change code below this line
+   
   
-    return true; // Change this line
-  
-    // Only change code above this line
+    return true;
   }
+  function trueOrFalse(wasThatTrue) {
+  
+    if(wasThatTrue==true){
+      return "Yes, that was true";
+    }
+    else{
+      return "No, that was false";
+    }
+  }
+  
