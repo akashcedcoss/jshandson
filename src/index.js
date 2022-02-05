@@ -44,3 +44,5 @@ let myVar = 87;
 myVar = ++myVar;
 let myVar = 11;
 myVar = --myVar;
+const ourDecimal = 5.7;
+var myDecimal = 5.7;
