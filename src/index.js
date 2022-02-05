@@ -110,3 +110,5 @@ const myArray = [["Bulls", 23], ["White Sox", 45]];
 const myArray = [50, 60, 70];
 myArray[0];
 const myData = myArray[0];
+const myArray = [18, 64, 99];
+myArray[0] = 45;
