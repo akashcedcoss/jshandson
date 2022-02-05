@@ -136,3 +136,7 @@ const myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul", 35]);
 const myList = [["akash",12],["akku",12,13],["akash",78,90],["akash",12],["akash",12]];
+function reusableFunction(){
+    console.log("Hi World");
+  }
+  reusableFunction();
