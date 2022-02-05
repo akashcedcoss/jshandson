@@ -244,4 +244,11 @@ function nextInLine(arr, item) {
       return "No, that was false";
     }
   }
+  function testEqual(val) {
+    if (val == 12) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
   
+  testEqual(10);
