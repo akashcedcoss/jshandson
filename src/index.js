@@ -637,4 +637,16 @@ const testObj = {
   
   var playerNumber = 16;       // Change this Line
   var player = testObj[playerNumber];
+  // Setup
+const myDog = {
+    "name": "Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  
+  // Only change code below this line
+  myDog.name = "Happy Coder";
+  myDog["name"] = "Happy Coder";
+
   
